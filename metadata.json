@@ -20,11 +20,23 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
+    "ApiCalls_2_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_2_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "ApiCalls_2_SelectQuery": {
       "unpublishedUserSetOnLoad": true,
       "publishedUserSetOnLoad": true
     },
     "ApiCalls_2_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_2_newQuest": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
