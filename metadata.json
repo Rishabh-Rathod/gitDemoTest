@@ -5,17 +5,47 @@
     "Page1",
     "ApiCalls_2",
     "Page2",
-    "Page3"
+    "Page3",
+    "ApiCalls_2 Copy"
   ],
   "publishedPageOrder": [
     "Page1",
     "ApiCalls_2",
     "Page2",
-    "Page3"
+    "Page3",
+    "ApiCalls_2 Copy"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
   "invisibleActionFields": {
+    "ApiCalls_2 Copy_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_2 Copy_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_2 Copy_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_2 Copy_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_2 Copy_SelectQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "ApiCalls_2 Copy_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_2 Copy_newQuest": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "ApiCalls_2_DeleteQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
