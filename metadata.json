@@ -3,11 +3,15 @@
   "serverSchemaVersion": 4,
   "pageOrder": [
     "Page1",
-    "ApiCalls_2"
+    "ApiCalls_2",
+    "Page2",
+    "Page3"
   ],
   "publishedPageOrder": [
     "Page1",
-    "ApiCalls_2"
+    "ApiCalls_2",
+    "Page2",
+    "Page3"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
@@ -53,6 +57,14 @@
       "publishedUserSetOnLoad": true
     },
     "Page1_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page2_SelectQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page3_SelectQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     }
